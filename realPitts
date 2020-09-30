@@ -1,0 +1,105 @@
+<main id = "main">
+<h1 id = "title">Walter Pitts: A Professional Taught by a Library</h1>
+  <figure id= "img-div">
+    <img 
+      id = "image scr=" src="https://i2.wp.com/mindhacks-legacy.s3.amazonaws.com/2005/08/walter_pitts.jpg?zoom=2"
+         alt= "Walter Pitts leaning on a desk."
+ />
+    </figure>
+    <h3 id="headline">A brief history of one of the most rebel scholars ever:</h3>
+    <section>
+    <ul>
+      <li>
+        <strong>1923</strong>
+        - Born in Detroit, Michigan to Walter and Marie.
+      </li>
+      <li>
+  <strong>1935</strong> 
+     - At the age of 12, Walter spent three days in the library reading Principia Mathematica, wrote a letter to Bertrand Russell, and was invited to go to college.
+      </li>
+      <li>
+ <strong>1938</strong>
+    - At the age of 15, he attended lectures, met his close friend Jerome Lettvin, studied logic with Rudolf Carnap. Carnap helped Pitts study logic, which Pitts mastered.
+      </li>
+      <li>
+        <strong>1942</strong>
+        - He went to live with Warren McCulloch and, while living with him, led to them collaborating on writing a nerural network paper called "A Logical Calculus of Ideas Immanent in Nervous Activity". The paper lead Warren to be called the second father or A.I. 
+      </li>
+      <li>
+        <strong>During 1943-1944</strong> - He was a graduate student in Physics at MIT.
+      </li> 
+      <li>
+        <strong>1951</strong> - Pitts and other physiologists of the nervious system were hired by Norbert Wiener. 
+      </li>
+      <li>
+        <strong>1952</strong> - Weiner broke off his relations to Pitts and others.
+      </li>
+      <li>
+        <strong>During 1956-1958</strong> - He was a graduate student in the electrical engineering and computer science department.
+      </li>
+      <li>
+        <strong>1959</strong> - He burned his unpublished doctoral dissertation that had years of undocumented work.
+      </li>
+      <li>
+        <strong>1965</strong> - He produced a paper on olfaction with Lettvin and Robert Gesteland.
+      </li>
+      <li>
+        <strong>1969</strong> Pitts died of bleeding esophageal varices.
+        </li>
+    </ul>
+       <blockquote
+      cite="https://en.wikipedia.org/wiki/Walter_Pitts"
+    >
+      <p id="tribute-info">
+        "in no uncertain sense the genius of the group … when you asked him a question, you would get back a whole textbook."
+      </p>
+      <cite>-- Lettvin's evaluation of Pitts</cite>
+    </blockquote>
+       <h3>
+      Please check out more about the life of this unrecognized genius on
+      <a
+        id="tribute-link"
+        href="https://en.wikipedia.org/wiki/Walter_Pitts"
+        target="_blank"
+        >Wikipedia entry</a
+      >.
+    </h3>
+  </section>
+</main>
+<style>
+  html {
+  font size: 13px;
+}
+
+img{
+  max-width:100%;
+  height:auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+tribute-info{
+  justify-content: center;
+}
+
+body{
+  font-family: Georgia, Times;
+  font-size: 1.3rem;
+  line-height: 1.8;
+  text-align: center;
+  color: #cc9871;
+  margin: 0
+}
+h1{
+  font-size: 2rem;
+  margin-bottom:0;
+}
+
+
+blockquote {
+  font-style: Geneva;
+  max-width: 550px;
+   margin: 0 auto 90px auto;
+  text-align: center;
+}
+</style>
